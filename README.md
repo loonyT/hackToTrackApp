@@ -63,7 +63,6 @@ Creation of a solution to protect wildlife
 ## Schéma-de-base-de-données
 
 
-![Diagramme vierge](https://user-images.githubusercontent.com/62712207/96141203-12385e00-0f01-11eb-8e37-6222d560ffd0.jpeg)
 
 
 ## Must-have-features
